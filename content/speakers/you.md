@@ -2,7 +2,7 @@
 id: you
 name: Unconference
 company: 
-featured: true
+featured: false
 photo: /images/speakers/we-need-you.png
 photoUrl: /images/speakers/we-need-you.png
 socials:
