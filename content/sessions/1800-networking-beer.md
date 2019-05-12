@@ -14,4 +14,4 @@ weight: 1800
 
 ---
 
-Beer time
+Al termine della conferenza è possibile fermarsi per un aperitivo di networking e per chiacchierare liberamente.

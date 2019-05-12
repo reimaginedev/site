@@ -14,4 +14,4 @@ slot: 09:00
 weight: 0900
 ---
 
-Registrazione partecipanti
+Registrazione partecipanti e informazioni logistiche
