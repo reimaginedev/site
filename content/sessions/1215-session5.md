@@ -7,7 +7,7 @@ videoId:
 tags:
   - talk
 speakers:
-  
+  - tba
 talkType: talk
 complexity: Beginner
 slot: 12:15
