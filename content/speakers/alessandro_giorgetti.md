@@ -26,3 +26,4 @@ In the last years my main focus moved to Distributed, Reactive, Message/Event Dr
 My skills include: C# and the .NET Framework, Javascript/TypeScript and toolkits/frameworks like Angular and Akka.NET; I'm working hard to catch up on the DevOps side.
 
 I'm also co-founder of SID s.r.l. a company which mainly builds products and custom solutions for the HealthCare System.
+
