@@ -9,6 +9,10 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/a_giorgetti'
     name: ''
+  - icon: linkedin
+    link: 'https://www.linkedin.com/in/giorgettialessandro/'
+    name: ''
+
 
 shortBio: 'Software Developer'
 companyLogo: /images/speakers/sid.jpg

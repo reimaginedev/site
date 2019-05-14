@@ -6,6 +6,9 @@ featured: true
 photo: /images/speakers/Andrea_Santi.png
 photoUrl: /images/speakers/Andrea_Santi.png
 socials:
+  - icon: linkedin
+    link: 'https://www.linkedin.com/in/andrea-santi-4395b446/'
+    name: ''
 
 shortBio: 'Full stack Developer'
 companyLogo: /images/speakers/leanit.png

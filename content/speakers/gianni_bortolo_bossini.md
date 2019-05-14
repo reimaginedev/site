@@ -9,6 +9,9 @@ socials:
   - icon: twitter
     link: 'https://twitter.com/BossiniGianni'
     name: ''
+  - icon: linkedin
+    link: 'https://www.linkedin.com/in/giannibortolobossini/'
+    name: ''
 
 shortBio: 'remote working, smart working, life balancing, health aging'
 companyLogo: /images/speakers/mailup.png
