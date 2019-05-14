@@ -3,7 +3,6 @@ id: gianni_bortolo_bossini
 name: Gianni Bortolo Bossini
 company: MailUp
 featured: true
-hidden: true
 photo: /images/speakers/gianni_bortolo_bossini.jpg
 photoUrl: /images/speakers/gianni_bortolo_bossini.jpg
 socials:
