@@ -14,7 +14,7 @@ slot: 11:15
 weight: 1115
 ---
 
-I post-mortem e come abbiamo gestito i nostri:
+Le retrospettive post-mortem e come le gestiamo:
 
 - partire dalla cronaca dei fatti
 
