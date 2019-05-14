@@ -13,9 +13,11 @@ socials:
     link: 'https://www.linkedin.com/in/giannibortolobossini/'
     name: ''
 
-shortBio: 'remote working, smart working, life balancing, health aging'
+shortBio: 'Technical Product Owner, remote worker, generally happy and collaborative ;)'
 companyLogo: /images/speakers/mailup.png
 companyLogoUrl: /images/speakers/mailup.png
 ---
 
-Sviluppatore backend, appassionato di architetture software, attratto da tutte le possibili novità e nuove tecnologie, ho iniziato a studiare diversi linguaggi, ma non ne conosco bene nessuno :)
+Sviluppatore backend .net, appassionato di architetture software, attratto da tutte le possibili novità e nuove tecnologie, da sempre stregato dal mondo API e dall'actor model, ho iniziato a studiare diversi linguaggi, ma non ne conosco bene nessuno :) 
+
+Da poco ho intrapreso un affasciante viaggio nelle dinamiche di prodotto, avvicinandomi a temi quali management, leadership e metodologie agili.
