@@ -40,7 +40,9 @@ menu:
 
 {{% /home-speakers %}}
 
-
+{{% home-link url="https://www.eventbrite.it/e/biglietti-reimagine-dev-59265099508" %}}
+# Biglietti
+{{% /home-link %}}
 
 {{% home-location
     image="/images/big-air-food.jpg"
