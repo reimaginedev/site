@@ -1,5 +1,5 @@
 ---
-id: 1245
+id: 1000
 title: To be a "Professional Team Player"
 class: intro
 presentation:
@@ -8,14 +8,14 @@ tags:
   - talk
 speakers:
   - alessandro_giorgetti
-  
+
 talkType: talk
 complexity: Beginner
-slot: 12:45
-weight: 1245
+slot: 10:00
+weight: 1000
 ---
 
-Every developer wanna be The Hero (tm), right?! 
+Every developer wanna be The Hero (tm), right?!
 
 Everybody likes to stand under the spotlight and "be recognized"!
 

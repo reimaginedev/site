@@ -1,5 +1,5 @@
 ---
-id: 1000
+id: 1245
 title: 'Public speaking for geeks: how to rock the stage!'
 class: intro
 presentation:
@@ -9,9 +9,9 @@ tags:
 speakers:
   - lorenzo_barbieri
 talkType: talk
-complexity: 
-slot: 10:00
-weight: 1000
+complexity:
+slot: 12:45
+weight: 1245
 ---
 
 Speaking in public is not easy, especially for geeks, that tend to be too technical, or too shy, or too something...
